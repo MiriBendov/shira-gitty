@@ -1,0 +1,14 @@
+L:\webAPI\שיעור 9\example\bin\Debug\net8.0\example.exe
+L:\webAPI\שיעור 9\example\bin\Debug\net8.0\example.deps.json
+L:\webAPI\שיעור 9\example\bin\Debug\net8.0\example.runtimeconfig.json
+L:\webAPI\שיעור 9\example\bin\Debug\net8.0\example.dll
+L:\webAPI\שיעור 9\example\bin\Debug\net8.0\example.pdb
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.AssemblyInfoInputs.cache
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.AssemblyInfo.cs
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.csproj.CoreCompileInputs.cache
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.dll
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\refint\example.dll
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.pdb
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\example.genruntimeconfig.cache
+L:\webAPI\שיעור 9\example\obj\Debug\net8.0\ref\example.dll
